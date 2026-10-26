@@ -1,0 +1,6 @@
+{
+  "name": "Área entre Funciones - Cálculo Integral",
+  "description": "Página web educativa interactiva para minicurso universitario de Cálculo Integral: teoría rigurosa, visualizador cartesiano, videos y ejercicios resueltos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
